@@ -67,54 +67,54 @@ export const productData = [
 export const userRows = [
     {
         id: 1,
-        username: "Jon Snow",
+        username: "Anuar",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        email: "jon@gmail.com",
+            "https://redmed.ge/assets/photos/avatar-3.png",
+        email: "anuararstanbekov@gmail.com",
         status: "active",
-        transaction: "$120.00",
+        transaction: "$800.00",
     },
     {
         id: 2,
-        username: "Jon Snow",
+        username: "Narbek",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        email: "jon@gmail.com",
+            "/images/Narbek.jpg",
+        email: "narbekkozhakmetov@gmail.com",
         status: "active",
-        transaction: "$120.00",
+        transaction: "$630.00",
     },
     {
         id: 3,
-        username: "Jon Snow",
+        username: "Azim",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        email: "jon@gmail.com",
+            "/images/Azim.jpg",
+        email: "azimkassymbayev@gmail.com",
         status: "active",
-        transaction: "$120.00",
+        transaction: "$740.00",
     },
     {
         id: 4,
-        username: "Jon Snow",
+        username: "Dana",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        email: "jon@gmail.com",
+            "/images/Dana.jpg",
+        email: "danaorenkyzy@gmail.com",
         status: "active",
-        transaction: "$120.00",
+        transaction: "$850.00",
     },
     {
         id: 5,
-        username: "Jon Snow",
+        username: "Surenuah",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        email: "jon@gmail.com",
+            "https://redmed.ge/assets/photos/avatar-3.png",
+        email: "surenuahsaakashvili@gmail.com",
         status: "active",
-        transaction: "$120.00",
+        transaction: "$1000000.00",
     },
     {
         id: 6,
         username: "Jon Snow",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+            "https://redmed.ge/assets/photos/avatar-3.png",
         email: "jon@gmail.com",
         status: "active",
         transaction: "$120.00",
@@ -123,7 +123,7 @@ export const userRows = [
         id: 7,
         username: "Jon Snow",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+            "https://redmed.ge/assets/photos/avatar-3.png",
         email: "jon@gmail.com",
         status: "active",
         transaction: "$120.00",
@@ -132,7 +132,7 @@ export const userRows = [
         id: 8,
         username: "Jon Snow",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+            "https://redmed.ge/assets/photos/avatar-3.png",
         email: "jon@gmail.com",
         status: "active",
         transaction: "$120.00",
@@ -141,7 +141,7 @@ export const userRows = [
         id: 9,
         username: "Jon Snow",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+            "https://redmed.ge/assets/photos/avatar-3.png",
         email: "jon@gmail.com",
         status: "active",
         transaction: "$120.00",
@@ -150,7 +150,7 @@ export const userRows = [
         id: 10,
         username: "Jon Snow",
         avatar:
-            "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+            "https://redmed.ge/assets/photos/avatar-3.png",
         email: "jon@gmail.com",
         status: "active",
         transaction: "$120.00",
